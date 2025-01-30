@@ -1,4 +1,3 @@
---Assignment Module 8--
 --Part 2--
 
 DROP TABLE STUDENT CASCADE CONSTRAINTS;
