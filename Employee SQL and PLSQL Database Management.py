@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #### Student Name: Mai Ngo
-# #### Course Name and Number: DSC 450 Database Processing for Large-Scale Analytics
-# #### Assignment 8
-# #### Date: 8/6/2023
-
 # ## Part 1
 
 # Use a DataFrame in python to define the following queries using the Employee data (employee.csv is attached). You can read it using pandas.read_csv('Employee.txt'). Adding optional parameter names=[] will allow you to rename the columns. 
