@@ -1,4 +1,3 @@
---Assignment Module 8--
 --Part 3--
 
 DROP TABLE ENROLLMENT CASCADE CONSTRAINTS;
